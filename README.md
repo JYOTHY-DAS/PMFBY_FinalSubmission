@@ -91,8 +91,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 For any questions or feedback, feel free to reach out!
 
-📧 Email: your-email@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile/)  
-📂 [GitHub](https://github.com/your-username/)
+📧 Email: jyothydas11@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/jyothy-das/) 
 >>>>>>> 0e86ab48bc0fb6412c8f6975f3abf84f7a067ad8
 
