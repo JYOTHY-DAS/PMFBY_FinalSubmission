@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-#### Objective: Forecast farmers' contribution to PMFBY(Pradhan Mantri Fasal Bima Yojana) using historical data on crop insurance coverage.
-#### Use cases: 
-* Identify patterns and trends in farmers' contributions.
-* Optimize subsidy allocation for maximum coverage and equity.
-* Enhance transparency and decision-making in policy design.
-=======
 # PMFBY Farmers' Contribution Forecasting
 
 ## Overview
@@ -65,10 +58,7 @@ PMFBY-Forecasting/
    ```bash
    python app.py
    ```
-4. Open the web application in your browser at:
-   ```
-   http://127.0.0.1:5000
-   ```
+4. To open the web application in your browser: [Click here](https://appfinalgit-cph2b5eex9z2rmkwqpjnfh.streamlit.app/)
 
 ## Results and Insights
 - Key patterns in farmers' contributions were identified.
@@ -91,8 +81,6 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 For any questions or feedback, feel free to reach out!
 
-📧 Email: your-email@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile/)  
-📂 [GitHub](https://github.com/your-username/)
->>>>>>> 0e86ab48bc0fb6412c8f6975f3abf84f7a067ad8
+📧 Email: jyothydas11@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/jyothy-das/) 
 
