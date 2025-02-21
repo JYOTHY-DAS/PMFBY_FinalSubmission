@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #### Objective: Forecast farmers' contribution to PMFBY(Pradhan Mantri Fasal Bima Yojana) using historical data on crop insurance coverage.
 #### Use cases: 
 * Identify patterns and trends in farmers' contributions.
@@ -93,5 +92,4 @@ For any questions or feedback, feel free to reach out!
 
 📧 Email: jyothydas11@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/jyothy-das/) 
->>>>>>> 0e86ab48bc0fb6412c8f6975f3abf84f7a067ad8
 
