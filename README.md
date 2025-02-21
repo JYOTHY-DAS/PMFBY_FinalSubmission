@@ -33,7 +33,7 @@ The final model is deployed using **Flask** and **Streamlit** allowing stakehold
 ## Project Structure
 ```plaintext
 PMFBY-Forecasting/
-│──/                  # Dataset files
+│── data/                  # Dataset files
 │── notebooks/             # Jupyter notebooks for EDA and modeling
 │── src/                   # Source code for data processing and modeling
 │── app/                   # Flask application for model deployment
