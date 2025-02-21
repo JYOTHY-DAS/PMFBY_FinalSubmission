@@ -58,10 +58,7 @@ PMFBY-Forecasting/
    ```bash
    python app.py
    ```
-4. Open the web application in your browser at:
-   ```
-   [https://appfinalgit-cph2b5eex9z2rmkwqpjnfh.streamlit.app/](https://appfinalgit-cph2b5eex9z2rmkwqpjnfh.streamlit.app/)
-   ```
+4. To open the web application in your browser: [Click here](https://appfinalgit-cph2b5eex9z2rmkwqpjnfh.streamlit.app/)
 
 ## Results and Insights
 - Key patterns in farmers' contributions were identified.
