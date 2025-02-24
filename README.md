@@ -30,17 +30,6 @@ The dataset contains historical records related to PMFBY, including information 
 ## Model Deployment
 The final model is deployed using **Flask** and **Streamlit** allowing stakeholders to interactively explore predictions. The web application takes user inputs, processes them, and returns forecasted farmers' contributions.
 
-## Project Structure
-```plaintext
-PMFBY-Forecasting/
-│── Data/                  # Dataset files
-│── notebooks/             # Jupyter notebooks for EDA and modeling
-│── Report/                   # Source code for data processing and modeling
-│── requirements.txt       # Dependencies
-│── app.py                 # Flask main application script
-│── README.md              # Project documentation
-```
-
 ## Installation and Usage
 1. Clone the repository:
    ```bash
