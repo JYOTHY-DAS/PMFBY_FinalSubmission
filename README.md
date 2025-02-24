@@ -35,10 +35,7 @@ The final model is deployed using **Flask** and **Streamlit** allowing stakehold
 PMFBY-Forecasting/
 │── data/                  # Dataset files
 │── notebooks/             # Jupyter notebooks for EDA and modeling
-│── src/                   # Source code for data processing and modeling
-│── app/                   # Flask application for model deployment
-│── templates/             # HTML templates for the web interface
-│── static/                # CSS and JavaScript files
+│── reports/                   # Source code for data processing and modeling
 │── requirements.txt       # Dependencies
 │── app.py                 # Flask main application script
 │── README.md              # Project documentation
